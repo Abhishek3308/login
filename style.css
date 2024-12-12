@@ -17,7 +17,7 @@ h1{
    
 }
 .custom{
-    background-color: gray;
+    background-color: aliceblue;
 }
 div{
     background-color: rgb(52, 52, 52);
@@ -27,5 +27,19 @@ div{
     padding-bottom: 10px;
     text-align: center;
     cursor: pointer;
+}
+button{
+    background-color: rgb(71, 218, 206);
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #006080;
+    color: white;
+    transition: 0.2s;
+}
+span{
+    color: red;
 }
 

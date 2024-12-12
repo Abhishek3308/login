@@ -48,12 +48,11 @@ button:hover{
 .forgot{
     text-align:left ;
     color: white;
-    padding-left: 100px;
+    padding-left: 95px;
 }
-h3{
-    margin-left: 290px;
-    margin-top: -34px;
-    padding-right: 50px;
+a{
+    margin-left: 110px;
+    margin-top:-37px ;
 
 }
 input{
